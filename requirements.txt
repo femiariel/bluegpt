@@ -1,0 +1,4 @@
+openai
+pandas
+yfinance
+streamlit == 1.28.2
